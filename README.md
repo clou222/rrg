@@ -1,2 +1,3 @@
-# rrg
-Red River Gorge National Geographic Area
+# Red River Gorge
+
+Exploration of land-forms in the Red River Gorge
