@@ -1,22 +1,21 @@
 <!-- Heading 1 -->
-# My Red River Gorge page title
+# Interesting facts about the Red River Gorge
 
 <!-- First paragraph -->
-Welcome to my info page. I will discuss interesting topics that might make you happy. 😃
+Welcome to my web page! We will discuss some interesting facts about the Red River Gorge
 
 <!-- Heading 2 -->
-## Some interesting facts here
+## Facts about the Red River Gorge
 
 <!-- Ordered list -->
-1. This is that
-2. That is this
-3. Mmmm ... this is crazy!
+1. Did you know that there are over 100 natural sandstone arches in the Red River Gorge?
+2. The Sky Bridge was featured in the film "The Kentuckian" 
 
 <!-- Link to web page -->
-[My map of happiness](https://ourworldindata.org/grapher/happiness-cantril-ladder)
+[Grays Arch](https://myhikes.org/images_uploads/Grays%20Arch%20Loop%20Trail%2FB5469A0E-0FE2-41FB-A30F-3EC664CEB341_20180501223930UTC_small.jpeg)
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
-![Become Happiness](https://imgs.xkcd.com/comics/focus_knob.png)
+![Grays Arch](https://myhikes.org/images_uploads/Grays%20Arch%20Loop%20Trail%2FB5469A0E-0FE2-41FB-A30F-3EC664CEB341_20180501223930UTC_small.jpeg)
 
 <!-- 
     This is a comment. The above line grabs a PNG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). 
@@ -24,4 +23,4 @@ Welcome to my info page. I will discuss interesting topics that might make you h
 
 <!-- Heading 3 -->
 ### Sources
-1. Https://...
+1. https://en.wikipedia.org/wiki/Red_River_Gorge
