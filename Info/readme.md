@@ -12,7 +12,7 @@ Welcome to my web page! We will discuss some interesting facts about the Red Riv
 2. The Sky Bridge was featured in the film "The Kentuckian" 
 
 <!-- Link to web page -->
-[Grays Arch](https://myhikes.org/images_uploads/Grays%20Arch%20Loop%20Trail%2FB5469A0E-0FE2-41FB-A30F-3EC664CEB341_20180501223930UTC_small.jpeg)
+[Grays Arch trail map from USFS](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd491194.pdf)
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
 ![Grays Arch](https://myhikes.org/images_uploads/Grays%20Arch%20Loop%20Trail%2FB5469A0E-0FE2-41FB-A30F-3EC664CEB341_20180501223930UTC_small.jpeg)
@@ -24,3 +24,4 @@ Welcome to my web page! We will discuss some interesting facts about the Red Riv
 <!-- Heading 3 -->
 ### Sources
 1. https://en.wikipedia.org/wiki/Red_River_Gorge
+2. https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=39478
