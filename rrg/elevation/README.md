@@ -1,2 +1,4 @@
 # estimated cliff heights
-[link to notebook](rrg.ipynb)
+[link to notebook](rrg.ipynb)    
+
+![map](map.jpg)
