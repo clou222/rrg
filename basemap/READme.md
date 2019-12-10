@@ -7,13 +7,18 @@ For my field work project I selected Courthouse Rock in the Red River Gorge. The
 
 ![View From Trail](IMG_0706.JPG)
 A view from the trail
+
 ![Karst Hillside](IMG_0707.JPG)
 A quick view of an over hanging outcrop along the trail
+
 ![Beautiful View](IMG_0708.JPG)
 Stunning view of the ridge
+
 ![Half Moon Arch and Cliffs Over 40ft (72 DPI)](IMG_0713.JPG)
 Photo of the bridge to the left
+
 ![Half Moon Arch and Cliffs Over 40ft (72 DPI)](IMG_0709.JPG)
 Overlook of another ridge along the trail
+
 ![Half Moon Arch and Cliffs Over 40ft (72 DPI)](IMG_0714.JPG)
 Panorama from the top of the cliff
