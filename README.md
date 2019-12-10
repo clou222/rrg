@@ -20,9 +20,11 @@ Welcome to my web page! We will discuss some interesting facts about the Red Riv
 <!-- 
     This is a comment. The above line grabs a PNG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). 
 -->
-## Estimate Cliff Heights
-* Cliffs Over 40ft [link](elevation/README.md)
-* Link to 3D Video [link](elevation/video.html)
+## Maps and visualizations
+* Cliffs Over 40ft near Half Moon [link](elevation/README.md)
+* Link to Bird's Eye View Video of Half Moon [link](elevation/video.html)
+* Elevation Contours around Star Gap Arch [link](https://clou222.github.io/rrg/map/)
+* Field trip to Courthouse Rock [link](basemap)
 
 <!-- Heading 3 -->
 ### Sources
