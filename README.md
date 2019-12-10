@@ -22,7 +22,7 @@ Welcome to my web page! We will discuss some interesting facts about the Red Riv
 -->
 ## Maps and visualizations
 * Cliffs Over 40ft near Half Moon [link](elevation/README.md)
-* Link to Bird's Eye View Video of Half Moon [link](elevation/video.html)
+* Link to Bird's Eye View Video of Half Moon [link](elevation/https://www.youtube.com/embed/_K8HLk-7Zy0)
 * Elevation Contours around Star Gap Arch [link](https://clou222.github.io/rrg/map/)
 * Field trip to Courthouse Rock [link](basemap)
 
